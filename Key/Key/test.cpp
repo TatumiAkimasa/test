@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void aaab()
+void main()
 {
 	printf("Šó–]‚Ì¯‚ ‚ ‚ ‚ ‚ ‚ \n");
 }
