@@ -1,6 +1,4 @@
-#include<stdio.h>
-int main(void)
-{
-	printf("git難しい\n");
-	return 0;
-}
+sa
+desukurimuzon
+誕生
+アサルトライフル朝日新聞
