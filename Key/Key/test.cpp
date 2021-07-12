@@ -2,5 +2,5 @@
 
 void main()
 {
-	printf("Šó–]‚Ì¯‚ ‚ ‚ ‚ ‚ ‚ AZaaa\n");
+	printf("Šó–]‚Ì¯‚ ‚ ‚ ‚ ‚ ‚ \n");
 }
